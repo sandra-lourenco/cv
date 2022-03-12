@@ -1,2 +1,2 @@
 # 
-my webpage CV :)
+my CV :)
