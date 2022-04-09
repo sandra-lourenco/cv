@@ -597,7 +597,7 @@ progress {
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "— ";
 }
 
 .img-fluid {
@@ -7945,13 +7945,13 @@ textarea.form-control-lg {
 
 .text-white-50 {
   --bs-text-opacity: 1;
-  color: rgba(255, 255, 255, 0.5) !important;
+  color: #64a19d !important;
   text-align: left;
 }
 
 .text-white-51 {
   --bs-text-opacity: 1;
-  color: rgba(255, 255, 255, 0.5) !important;
+  color: #64a19d !important;
 }
 
 .text-reset {
@@ -11694,4 +11694,3 @@ body {
 .footer {
   padding: 5rem 0;
 }
-
