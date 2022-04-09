@@ -7945,13 +7945,13 @@ textarea.form-control-lg {
 
 .text-white-50 {
   --bs-text-opacity: 1;
-  color: #64a19d !important;
+  color: rgba(255, 255, 255, 0.5) !important;
   text-align: left;
 }
 
 .text-white-51 {
   --bs-text-opacity: 1;
-  color: #64a19d !important;
+  color: rgba(255, 255, 255, 0.5) !important;
 }
 
 .text-reset {
